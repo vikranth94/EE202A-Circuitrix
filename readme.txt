@@ -1,11 +1,9 @@
-Submit the zip care that expand to a folder named project to 
-https://www.dropbox.com/request/owWjEEjAdb97P68LatDo
+This is the official website for “Circuitrix”, the final project of EE202A Embedded Systems at UCLA. The goal of this project is to design a system which can generate a netlist file from hand-drawn circuits using image processing techniques and then simulate the generated netlist file in SPICE to find the voltage across and current through each resistor.
 
-Deadline: 5PM PDT Wednesday Dec 14.
+The Mission
 
-The "project" folder should include: 
-1.project.url
-2.presentation.url(optional)
-3.demo.url(optional)
-4.presentation.pdf
-5.All supporting data, software, hardware design files (in subfolders)
+Detect a hand-drawn circuit diagram
+Recognize individual elements of the circuit
+Construct a SPICE netlist file
+Send the netlist file to a PC
+Simulate netlist file in SPICE
